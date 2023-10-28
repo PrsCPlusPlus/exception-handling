@@ -1,5 +1,5 @@
 /* 
- 22070123094
+ 22070123087
 Exp-16(Part-A)
 Division Error
 */
@@ -35,7 +35,7 @@ Divide by 0 error
 */
 
 /* 
- 22070123094
+ 22070123087
 Exp-16(Part-B)
 */
 #include<iostream>
